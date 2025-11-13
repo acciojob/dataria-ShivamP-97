@@ -26,5 +26,3 @@ function mergeCraftDates(emilyDates, oliverDates) {
 
   return merged;
 }
-
-console.log(mergeCraftDates([3, 7, 12, 20], [1, 5, 8, 18, 25]));
